@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SurvivalSMPFRIEND.aternos.me:",
+    "ip": "SurvivalSMPFRIEND.aternos.me",
     "port": 54653,
     "version": "1.21.11"
   },
